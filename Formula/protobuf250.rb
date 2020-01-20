@@ -46,3 +46,7 @@ class Protobuf250 < Formula
     system bin/"protoc", "test.proto", "--cpp_out=."
   end
 end
+
+
+
+
